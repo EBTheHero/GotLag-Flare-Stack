@@ -21,6 +21,7 @@ data:extend({
 			scale = 0.7,
 			shift = { 0, -0.2 },
 		},
+		tall = true,
 		flags = { "placeable-neutral", "player-creation" },
 		minable = { mining_time = 0.2, result = "flare-stack" },
 		fast_replaceable_group = "fluid-incinerator",
